@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/praveen-s-cyber">
     <img src="https://img.shields.io/badge/LinkedIn-praveen--s--cyber-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20IN-FF5733?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Thiruvarur%2C%20Tamil%20Nadu%2C%20IN-FF5733?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=praveen-s-cyber&style=flat-square&color=70A5FD&label=Profile+Views" />
 </p>
 
@@ -25,7 +25,7 @@
 class CyberSecurityEngineer:
 
     name         = "Praveen .S"
-    location     = "Chennai, Tamil Nadu, India 🇮🇳"
+    location     = "Thiruvarur, Tamil Nadu, India 🇮🇳"
     degree       = "B.Sc. Computer Science — AVVM Sri Pushpam College, Thanjavur"
     role         = "Cyber Security Engineer | Network Security | SOC Analyst"
 
@@ -45,6 +45,7 @@ class CyberSecurityEngineer:
     certifications = [
         "CompTIA Security+ (SY0-601)",
         "Cisco Networking Basics",
+         "CEHPT Certificate - Cappriciosec University"
         "Kaashiv Infotech Internship Certification"
     ]
 
