@@ -30,12 +30,15 @@ class CyberSecurityEngineer:
     role         = "Cyber Security Engineer | Penetration Tester | SOC Analyst"
 
     stack = [
-        "Network Security", "Penetration Testing", "SIEM / Wazuh",
+        "Penetration Testing", "Network Security", "SIEM / Wazuh",
         "Vulnerability Assessment", "Ethical Hacking", "Cloud Security (AWS/Azure)",
         "IDS/IPS", "Firewall Management", "Incident Response"
     ]
 
     currently_learning = [
+        "Reverse Engineering web & Application".
+        "Reconnaissance & Traffic Analysis"
+        "Web security (owasp top 10)"
         "Advanced Threat Hunting",
         "Red Team / Blue Team Operations",
         "Cloud Security Architecture (AWS & Azure)",
