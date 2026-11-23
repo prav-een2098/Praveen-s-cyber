@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20.S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Engineer%20%7C%20Network%20Security%20%7C%20SOC%20Analyst%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20.S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Engineer%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=16"Network%20Security%20%7C%20SOC%20Analyst%20%7C%20 />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cyber+Security+Engineer+%F0%9F%94%90;Network+%26+Cloud+Security+%E2%98%81%EF%B8%8F;SOC+Analyst+%7C+SIEM+%7C+Incident+Response;Penetration+Tester+%7C+Ethical+Hacker+%F0%9F%A7%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cyber+Security+Engineer+%F0%9F%94%90;Penetration+Tester+%7C+Ethical+Hacker+%F0%9F%A7%A8;Network+%26+Cloud+Security+%E2%98%81%EF%B8%8F;SOC+Analyst+%7C+SIEM+%7C+Incident+Response" alt="Typing SVG" />
 </p>
 
 <p align="center">
