@@ -27,7 +27,7 @@ class CyberSecurityEngineer:
     name         = "Praveen .S"
     location     = "Thiruvarur, Tamil Nadu, India 🇮🇳"
     degree       = "B.Sc. Computer Science — AVVM Sri Pushpam College, Thanjavur"
-    role         = "Cyber Security Engineer | Network Security | SOC Analyst"
+    role         = "Cyber Security Engineer | Penetration Tester | SOC Analyst"
 
     stack = [
         "Network Security", "Penetration Testing", "SIEM / Wazuh",
@@ -218,7 +218,6 @@ print(me.motto())
 | 🎓 Degree | 🏫 Institution | 📍 Location |
 |:---|:---|:---:|
 | **B.Sc. Computer Science** | AVVM Sri Pushpam College | Thanjavur, Tamil Nadu |
-| **Cybersecurity, Networking, Linux & Cloud** | Kaashiv Infotech | Chennai, Tamil Nadu |
 
 ### 📜 Certifications
 
@@ -237,15 +236,16 @@ print(me.motto())
 $ sudo apt-get install --upgrade skills
 
 Installing:
-  ✅ Advanced Threat Hunting & Threat Intelligence
-  ✅ Red Team / Blue Team Operations
-  ✅ AWS Security Specialty
-  ✅ Azure Security Engineer Associate
-  ✅ Zero Trust Architecture
-  🔄 CEH (Certified Ethical Hacker) — In Progress
-  🔄 OSCP Preparation — In Progress
+  ✅ Reverse Engineering web & Application
+  ✅ Reconnaissance & Traffic Analysis
+  ✅ Web security (owasp top 10)
+  🔄 Advanced Threat Hunting & Threat Intelligence — In Progress
+  🔄 Red Team / Blue Team Operations — In Progress
+  🔄 AWS Security Specialty — In Progress
+  🔄 Azure Security Engineer Associate — In Progress
+  🔄 Zero Trust Architecture — In Progress
 
-[####################] 100% — Never stop learning. 🔐
+  [#####################################] 100% — Never stop learning. 🔐
 ```
 
 ---
