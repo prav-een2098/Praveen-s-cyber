@@ -210,11 +210,11 @@ AVVM Sri Pushpam College · Thanjavur, Tamil Nadu
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen-s-cyber&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prav-een0298&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-s-cyber&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=praveen-s-cyber&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=prav-een0298&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
