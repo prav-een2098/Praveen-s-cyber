@@ -1,6 +1,6 @@
 <!-- PROFILE README | Replace or edit details as needed. Put the four report files in /projects/ with the exact filenames linked below. -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:2563EB,100:06B6D4&height=220&section=header&text=PRAVEEN%20S&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%7C%20PENETRATION%20TESTER%20%7C%20CLOUD%20SECURITY&descAlignY=61&descSize=18" alt="Praveen S - Cybersecurity portfolio banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:2563EB,100:06B6D4&height=220&section=header&text=PRAVEEN%20S&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%7C%20PENETRATION%20TESTER%20%7C%20SOC%20%7C%20CLOUD%20SECURITY&descAlignY=61&descSize=18" alt="Praveen S - Cybersecurity portfolio banner" />
 </p>
 
 <p align="center">
