@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=praveen-s-cyber&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center"><b>Entry-Level Cybersecurity Professional | Vulnerability Assessment | Web Security | Security Monitoring</b></p>
+<p align="center"><b>Entry-Level Cybersecurity Professional | Penetration Testing | VAPT | Cloud Security | Application & Web Security </b></p>
 
 <p align="center">
   <a href="#-technical-skills">Skills</a> •
@@ -26,7 +26,7 @@
 
 I'm a **B.Sc. Computer Science graduate building a career in cybersecurity**, with an interest in vulnerability assessment, web application security, network security, and security operations. I enjoy exploring attack surfaces, analyzing technical observations, learning how security controls work, and documenting findings in structured reports.
 
-- 🎯 **Career focus:** VAPT, Web Security and entry-level Security Analyst opportunities
+- 🎯 **Career focus:** Penetration Tester, VAPT, Web Security and entry-level Security Analyst opportunities
 - 🔍 **Hands-on practice:** Network scanning, web security scanning and security observation/reporting
 - 🛡️ **Secondary interests:** SOC, SIEM, log analysis, incident response and cloud security fundamentals
 - 🐧 **Environment:** Linux, Kali Linux and Windows
@@ -222,41 +222,14 @@ AVVM Sri Pushpam College · Thanjavur, Tamil Nadu
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:praveen.cybersecurity28@gmail.com"><img src="https://img.shields.io/badge/Email-praveen.cybersecurity28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br/>
-  <a href="https://www.linkedin.com/in/praveen-s-cyber"><img src="https://img.shields.io/badge/LinkedIn-Praveen%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-</p>
-
-<p align="center"><i>Curiosity • Practice • Analysis • Documentation • Continuous Learning</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:2563EB,100:06B6D4&height=100&section=footer" alt="Profile footer" />
-</p>
-<p align="center">
-  <a href="mailto:praveen.cybersecurity28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/praveen-s-cyber">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"In a world of threats, be the shield. 🛡️"</i><br/>
-  <b>— Praveen .S | Cyber Security Engineer</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</p>
-<p align="center">
   <a href="mailto:praveen.cybersecurity28@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/praveen-s-cyber"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <i>Build. Analyze. Secure. Document. Keep learning.</i>
+<p align="center"><i>Curiosity • Practice • Analysis • Documentation • Continuous Learning</i>
+      <b>— Praveen S | Cyber Security Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00C2FF&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:2563EB,100:06B6D4&height=100&section=footer" alt="Profile footer" />
 </p>
