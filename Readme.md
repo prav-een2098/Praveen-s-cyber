@@ -231,3 +231,21 @@ AVVM Sri Pushpam College · Thanjavur, Tamil Nadu
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:2563EB,100:06B6D4&height=100&section=footer" alt="Profile footer" />
 </p>
+<p align="center">
+  <a href="mailto:praveen.cybersecurity28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/praveen-s-cyber">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"In a world of threats, be the shield. 🛡️"</i><br/>
+  <b>— Praveen .S | Cyber Security Engineer</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
+
