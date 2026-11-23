@@ -226,7 +226,7 @@ AVVM Sri Pushpam College · Thanjavur, Tamil Nadu
   <a href="https://www.linkedin.com/in/praveen-s-cyber"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><i>Curiosity • Practice • Analysis • Documentation • Continuous Learning</i>
+<p align="center"><i>Curiosity • Practice • Analysis • Documentation • Continuous Learning</i><br>
       <b>— Praveen S | Cyber Security Engineer</b>
 </p>
 
